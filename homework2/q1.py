@@ -1,4 +1,4 @@
-# write a program to find the average value of a set of number.
+# write a program torfind the average value of a set of number.
 # gets the number until the input value equals zero
 # Then, calculates the average value and prints it out
 
